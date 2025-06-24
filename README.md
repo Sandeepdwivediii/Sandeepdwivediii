@@ -69,35 +69,7 @@
 
 ---
 
-## 📈 Contribution Graph
 
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sandeepdwivediii&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=false&custom_title=Sandeep's%20Contribution%20Graph)
-
-</div>
-
----
-
-## 🗓️ 3D Contribution Profile
-
-<div align="center">
-
-![3D Contribution](https://github-profile-3d-contrib.vercel.app/api?username=Sandeepdwivediii&theme=dark)
-
-</div>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-
-![Snake animation](https://github.com/Sandeepdwivediii/Sandeepdwivediii/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
